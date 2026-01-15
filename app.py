@@ -1,3 +1,7 @@
+# 職員管理システム - Streamlitアプリケーション
+# バージョン: 1.0.0
+# 最終更新: 2026-01-15
+
 import streamlit as st
 import pandas as pd
 import gspread
