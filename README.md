@@ -1,6 +1,12 @@
 # 職員管理システム
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Python](https://img.shields.io/badge/python-3.8+-green)
+![Streamlit](https://img.shields.io/badge/streamlit-latest-red)
+
 Googleスプレッドシートと連携した職員情報管理システムです。
+
+**最終更新**: 2026-01-15
 
 ## 機能
 
